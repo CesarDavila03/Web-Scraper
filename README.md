@@ -33,4 +33,5 @@
 
 <h2>Environments Used </h2>
 
+- <b>Visual Studio Code</b>
 - <b>macOS: Ventura 13.0</b>
