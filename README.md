@@ -1,8 +1,8 @@
 <h1>Web Scraper</h1>
 
 <h2>Description</h2>
-This project demonstrates how to scrape data from a Wikipedia page that lists the largest companies in the United States by revenue. The data is extracted using BeautifulSoup, processed with Pandas, and then saved into a CSV file. This project showcases basic web scraping techniques, data extraction, and data manipulation.
-
+<p>This project demonstrates how to scrape data from a Wikipedia page that lists the largest companies in the United States by revenue. The data is extracted using BeautifulSoup, processed with Pandas, and then saved into a CSV file. This project showcases basic web scraping techniques, data extraction, and data manipulation.
+</p>
 
 <h2>Features</h2>
 
